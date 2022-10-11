@@ -1,4 +1,4 @@
-DEPLOYMENT : https://mymovies-app-react-phi.vercel.app/ListFavoriteMoviesPage
+DEPLOYMENT : https://mymovies-app-react-phi.vercel.app/
 
 # Getting Started with Create React App
 
